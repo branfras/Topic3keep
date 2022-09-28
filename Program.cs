@@ -6,7 +6,7 @@ namespace Topic3keep
     {
         static void Main(string[] args)
         {
-            //Brandon Fraser
+            //Brandon Fraser ics4u
             string name;
             int age;
             int year;
